@@ -1,0 +1,146 @@
+.nav-wrapper{
+    background-color: black; 
+}
+.dropdown-content{
+    color: black;
+    background-color: white;
+	border-bottom-color: #FFFFFF;
+}
+.section-search input{
+    padding: 5px !important;
+    font-size: 18px !important;
+    width: 80% !important;
+    border: #f4f4f4 1px solid !important;
+    color: black; 
+    margin-bottom: 20px;
+    margin: 1,5px 90px 60px;
+}
+.side-nav{
+    background-color: aliceblue;
+}
+.login button{
+    padding: 0px 40px;
+}
+.slider .slides li .caption{
+	top: 40%;
+    color:#FFFFFF;
+    text-shadow: 1px 1px 5px #000000;
+}
+.slider{
+    margin-top: 110px; 
+}
+.textslider{
+    color: #FFFFFF;
+}
+.slider .indicators .indicator-item.active
+{
+    background-color: dimgrey;
+}
+
+.espacamentoSuperior{
+    margin-top: 110vh;
+}
+
+.btn, .btn-large{
+    background-color: black;
+}
+
+.equipe{
+    padding-bottom: 25px;
+}
+.chip-custom{
+    display:block;
+    margin:5px;
+}
+.equipe,.servico,.rodape{
+    opacity:;
+}
+.page-footer{
+    background-color: #000000 ;
+}
+.nav-wrapper{
+    background-color: #000000 ;
+}
+.precoan{
+    text-decoration: line-through;
+    font-size: 15px !important;
+    
+}
+.preco{
+    font-size: 18px !important;
+}
+
+/* Tamanho icones FACEBOOK*/
+.fa-facebook-f:before{
+    color: white;
+    font-size:30px;
+    background-color: #395692;
+    
+}
+
+/* Tamanho icones TWITTER*/
+.fa-twitter:before{
+    color:#5DBCD2;
+    font-size:30px;
+}
+
+/* Tamanho icones GOOGLE+*/
+.fa-google-plus-g:before{
+    color: white;
+    font-size:30px;
+    background-color: red;
+    border-radius: 9px;
+}
+
+/* Tamanho icones GOOGLE+*/
+.fa-pinterest-p:before{
+    color: #ff00d8;
+    font-size:30px;
+}
+
+/* Tamanho icones PEZINHO*/
+.fa-pinterest-p:before{
+    color: white;
+    font-size:30px;
+    background-color: red;
+    border-radius: 2px;
+}
+
+/* Tamanho icones INSTAGRAM*/
+.fa-instagram:before{
+    color:white;
+    font-size:30px;
+    background-image: linear-gradient(to bottom, #903FAF,#C53789, #FFC25F);
+}
+
+/* Tamanho icones YOUTUBE*/
+.fa-youtube:before{
+    color: white;
+    font-size:30px;
+    background-color: red;
+}
+
+/* Tamanho icones LINKEDIN*/
+.fa-linkedin-in:before{
+    color: white;
+    font-size:30px;
+    background-color: #0077B4;
+}
+/* Tamanho icones TUMBLR*/
+.fa-tumblr:before{
+    color: white;
+    font-size:30px;
+    background-color: #314357;
+}
+
+body{
+font-size: 20px;
+font-family: 'Fjalla One', sans-serif;
+
+}
+
+
+
+
+
+
